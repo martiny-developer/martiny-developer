@@ -38,7 +38,7 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring Boot**, c
 
 ## 🌱 Actualmente Aprendiendo
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Native-4EAA25?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
