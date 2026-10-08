@@ -39,20 +39,11 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring Boot**, c
 ## 🌱 Actualmente Aprendiendo
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📬 Contacto y Portafolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarirtiny&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de tarirtiny" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarirtiny&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150"/>
-</p>
-
----
-
-## 📬 ¡Contactemos!
-
+- 🌐 **Mi Portafolio:** [Visitar mi Portafolio](https://tu-portafolio.com)
 - 📂 **Mis Proyectos:** [Ver Repositorios](https://github.com/tarirtiny?tab=repositories)
 - ✉️ **LinkedIn / Email:** *(Añade aquí tu enlace a LinkedIn o tu correo de contacto)*
