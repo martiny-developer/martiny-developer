@@ -46,4 +46,4 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring Boot**, c
 
 - 🌐 **Mi Portafolio:** [Visitar mi Portafolio](https://tu-portafolio.com)
 - 📂 **Mis Proyectos:** [Ver Repositorios](https://github.com/tarirtiny?tab=repositories)
-- ✉️ **LinkedIn / Email:** *(Añade aquí tu enlace a LinkedIn o tu correo de contacto)*
+- ✉️ **LinkedIn:** https://www.linkedin.com/in/sergio-martiny-developer-backend-java-springboot-postgresql-linux-javascript-arch-git-github
