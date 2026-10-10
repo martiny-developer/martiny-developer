@@ -162,7 +162,7 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
   </a>
   &nbsp;&nbsp;
   <a href="https://www.portafolio.com">
-    <img src="assets/portfolio.svg" width="150" alt="Portfolio">
+    <img src="assets/portafolio.svg" width="150" alt="Portafolio">
   </a>
 </p>
 <!-- ═══════════════════════════════════════════════ -->
