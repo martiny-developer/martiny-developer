@@ -72,7 +72,9 @@
 </h2>
 
 Soy Técnico en Programación de Software y Desarrollador Full Stack, con formación intensiva en Java y experiencia práctica en el desarrollo de proyectos web.
+
 Me interesa construir soluciones de software, aplicando buenas prácticas de programación y fortaleciendo continuamente mis habilidades técnicas.
+
 Actualmente, busco mi primera oportunidad profesional para aportar mis conocimientos, colaborar con un equipo de desarrollo y seguir creciendo como programador.
 <br/>
 
