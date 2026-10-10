@@ -162,21 +162,22 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_PERFIL">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      height="150"
+      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A&color=0A0A0A&scale=2"
+      width="220"
+      height="65"
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://TU_PORTAFOLIO">
     <img
-      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logoColor=FFFFFF"
-      height="150"
+      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=0A0A0A&color=0A0A0A&scale=2"
+      width="220"
+      height="65"
       alt="Portfolio"
     />
   </a>
 </p>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!--                     FOOTER                      -->
 <!-- ═══════════════════════════════════════════════ -->
