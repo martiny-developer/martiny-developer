@@ -153,27 +153,22 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
   />
 </p>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                     CONTACT                     -->
-<!-- ═══════════════════════════════════════════════ -->
-
+<<!-- CONTACT -->
 <h2 align="left">Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_PERFIL">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=D71921&color=0A0A0A&scale=2"
-      width="150"
-      height="50"
+      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=0A0A0A&color=0A0A0A"
+      width="220"
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://TU_PORTAFOLIO">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=0A0A0A&color=0A0A0A"
-      width="150"
-      height="50"
+      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logoColor=FF0000&labelColor=0A0A0A&color=0A0A0A"
+      width="220"
       alt="Portfolio"
     />
   </a>
