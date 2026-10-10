@@ -2,7 +2,6 @@
      width="300"
      height="76"
      viewBox="0 0 300 76">
-
   <rect
     x="2"
     y="2"
@@ -13,7 +12,6 @@
     stroke="#FF0000"
     stroke-width="2"
   />
-
   <text
     x="150"
     y="47"
@@ -24,5 +22,4 @@
     text-anchor="middle"
     letter-spacing="1"
   >PORTFOLIO</text>
-
 </svg>
