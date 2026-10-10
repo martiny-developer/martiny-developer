@@ -158,19 +158,11 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_PERFIL">
-    <img
-      src="assets/linkedin.svg"
-      width="220"
-      alt="LinkedIn"
-    />
+    <img src="assets/linkedin.svg" width="220" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="https://TU_PORTAFOLIO">
-    <img
-      src="assets/portfolio.svg"
-      width="220"
-      alt="Portfolio"
-    />
+    <img src="assets/portfolio.svg" width="220" alt="Portfolio">
   </a>
 </p>
 <!-- ═══════════════════════════════════════════════ -->
