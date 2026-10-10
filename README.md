@@ -71,14 +71,9 @@
   &nbsp;About Me
 </h2>
 
-Soy Técnico en Programación de Software y Desarrollador Full Stack, con formación intensiva en Java y experiencia práctica en proyectos web.
-
-- **Backend:** Java, Spring Boot, APIs REST, POO y PostgreSQL.
-- **Frontend:** HTML5, CSS3, JavaScript y Bootstrap.
-- **Herramientas:** Git, GitHub, Linux, Bash y Arch Linux.
-
-Me enfoco en escribir código limpio, adaptarme a nuevos retos y aprender continuamente. Busco mi primera oportunidad profesional para aportar a un equipo de desarrollo y seguir creciendo como programador.
-
+Soy Técnico en Programación de Software y Desarrollador Full Stack, con formación intensiva en Java y experiencia práctica en el desarrollo de proyectos web.
+Me interesa construir soluciones de software, aplicando buenas prácticas de programación y fortaleciendo continuamente mis habilidades técnicas.
+Actualmente, busco mi primera oportunidad profesional para aportar mis conocimientos, colaborar con un equipo de desarrollo y seguir creciendo como programador.
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
