@@ -161,7 +161,7 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
     <img src="assets/linkedin.svg" width="150" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://TU_PORTAFOLIO">
+  <a href="https://www.portafolio.com">
     <img src="assets/portfolio.svg" width="150" alt="Portfolio">
   </a>
 </p>
