@@ -39,9 +39,9 @@ I enjoy developing solutions that connect backend logic with user interfaces, fo
 
 <br clear="right"/>
 
-<!-- ═══════════════════ WHITE SEPARATOR ═══════════════════ -->
+<!-- ═══════════════════ RED SEPARATOR ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="White animated separator"/>
+<img src="https://img.shields.io/badge/-%E2%94%81?style=flat&color=D71921" width="100%" height="3" alt="Red separator"/>
 
 <br/>
 
@@ -71,9 +71,9 @@ I enjoy developing solutions that connect backend logic with user interfaces, fo
 
 <br/>
 
-<!-- ═══════════════════ WHITE SEPARATOR ═══════════════════ -->
+<!-- ═══════════════════ RED SEPARATOR ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="White animated separator"/>
+<img src="https://img.shields.io/badge/-%E2%94%81?style=flat&color=D71921" width="100%" height="3" alt="Red separator"/>
 
 <br/>
 
@@ -95,9 +95,9 @@ I approach development by breaking problems into manageable steps, understanding
 
 <br/>
 
-<!-- ═══════════════════ WHITE SEPARATOR ═══════════════════ -->
+<!-- ═══════════════════ RED SEPARATOR ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="White animated separator"/>
+<img src="https://img.shields.io/badge/-%E2%94%81?style=flat&color=D71921" width="100%" height="3" alt="Red separator"/>
 
 <br/>
 
@@ -119,9 +119,9 @@ I approach development by breaking problems into manageable steps, understanding
 
 <br/>
 
-<!-- ═══════════════════ WHITE SEPARATOR ═══════════════════ -->
+<!-- ═══════════════════ RED SEPARATOR ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="White animated separator"/>
+<img src="https://img.shields.io/badge/-%E2%94%81?style=flat&color=D71921" width="100%" height="3" alt="Red separator"/>
 
 <br/>
 
