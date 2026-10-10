@@ -163,15 +163,15 @@ Actualmente, busco mi primera oportunidad profesional para aportar mis conocimie
   <a href="https://www.linkedin.com/in/TU_PERFIL">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      height="40"
+      height="70"
       alt="LinkedIn"
     />
   </a>
   &nbsp;&nbsp;
   <a href="https://TU_PORTAFOLIO">
     <img
-      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF"
-      height="40"
+      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logoColor=FFFFFF"
+      height="70"
       alt="Portfolio"
     />
   </a>
