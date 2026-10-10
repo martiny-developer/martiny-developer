@@ -1,19 +1,225 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
-  <title id="title">MARTINY</title>  <defs>
-    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#B3B3B3"/>
-    </linearGradient>
-  </defs>  <rect width="1200" height="260" fill="#0A0A0A"/>  <path d="M70 44 H1130" stroke="#D71921" stroke-width="2" opacity="0.9"/>
-  <path d="M70 216 H1130" stroke="#D71921" stroke-width="2" opacity="0.9"/><text
-x="600"
-y="158"
-text-anchor="middle"
-font-family="monospace"
-font-size="112"
-font-weight="800"
-letter-spacing="14"
-fill="url(#textGradient)">MARTINY</text>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">MARTINY</title>
 
-  <rect x="1070" y="186" width="60" height="5" fill="#D71921"/>
+  <desc id="desc">
+    Wordmark MARTINY con letras formadas por puntos blancos
+    y detalles rojos sobre fondo transparente.
+  </desc>
+
+  <defs>
+    <pattern
+      id="dotPattern"
+      width="24"
+      height="24"
+      patternUnits="userSpaceOnUse"
+    >
+      <circle
+        cx="12"
+        cy="12"
+        r="7"
+        fill="#FFFFFF"
+      />
+    </pattern>
+
+    <filter
+      id="redGlow"
+      x="-100%"
+      y="-100%"
+      width="300%"
+      height="300%"
+    >
+      <feGaussianBlur
+        stdDeviation="3"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fondo transparente -->
+
+  <g
+    fill="url(#dotPattern)"
+    stroke="#D71921"
+    stroke-width="1.2"
+    stroke-opacity="0.28"
+    stroke-linejoin="round"
+  >
+
+    <!-- M -->
+
+    <path
+      id="letterM"
+      d="
+        M 75 220
+        L 75 80
+        L 115 80
+        L 165 145
+        L 215 80
+        L 255 80
+        L 255 220
+        L 215 220
+        L 215 140
+        L 165 195
+        L 115 140
+        L 115 220
+        Z
+      "
+    />
+
+    <!-- A -->
+
+    <path
+      id="letterA"
+      d="
+        M 280 220
+        L 330 80
+        L 375 80
+        L 425 220
+        L 385 220
+        L 375 185
+        L 330 185
+        L 320 220
+        Z
+
+        M 340 150
+        L 365 150
+        L 352 110
+        Z
+      "
+      fill-rule="evenodd"
+    />
+
+    <!-- R -->
+
+    <path
+      id="letterR"
+      d="
+        M 450 220
+        L 450 80
+        L 520 80
+        C 565 80 585 100 585 130
+        C 585 153 572 170 550 177
+        L 595 220
+        L 545 220
+        L 505 182
+        L 490 182
+        L 490 220
+        Z
+
+        M 490 115
+        L 490 150
+        L 515 150
+        C 535 150 545 145 545 132
+        C 545 120 535 115 515 115
+        Z
+      "
+      fill-rule="evenodd"
+    />
+
+    <!-- T -->
+
+    <path
+      id="letterT"
+      d="
+        M 610 80
+        L 765 80
+        L 765 118
+        L 710 118
+        L 710 220
+        L 665 220
+        L 665 118
+        L 610 118
+        Z
+      "
+    />
+
+    <!-- I -->
+
+    <path
+      id="letterI"
+      d="
+        M 790 80
+        L 835 80
+        L 835 220
+        L 790 220
+        Z
+      "
+    />
+
+    <!-- N -->
+
+    <path
+      id="letterN"
+      d="
+        M 860 220
+        L 860 80
+        L 900 80
+        L 970 155
+        L 970 80
+        L 1010 80
+        L 1010 220
+        L 970 220
+        L 900 145
+        L 900 220
+        Z
+      "
+    />
+
+    <!-- Y -->
+
+    <path
+      id="letterY"
+      d="
+        M 1035 80
+        L 1080 80
+        L 1110 130
+        L 1140 80
+        L 1185 80
+        L 1130 165
+        L 1130 220
+        L 1090 220
+        L 1090 165
+        Z
+      "
+    />
+
+  </g>
+
+  <!-- Acentos rojos -->
+
+  <g
+    fill="#D71921"
+    filter="url(#redGlow)"
+  >
+    <circle cx="78" cy="80" r="6"/>
+    <circle cx="252" cy="80" r="6"/>
+
+    <circle cx="352" cy="185" r="6"/>
+
+    <circle cx="580" cy="130" r="6"/>
+    <circle cx="595" cy="220" r="6"/>
+
+    <circle cx="710" cy="220" r="6"/>
+
+    <circle cx="812" cy="80" r="6"/>
+    <circle cx="812" cy="220" r="6"/>
+
+    <circle cx="1010" cy="80" r="6"/>
+
+    <circle cx="1110" cy="130" r="6"/>
+    <circle cx="1110" cy="220" r="6"/>
+  </g>
+
 </svg>
