@@ -50,7 +50,7 @@
 <!--                    ABOUT ME                     -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<h2 align="center">
+<h2 align="left">
   <img
     src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
     width="45"
@@ -61,20 +61,11 @@
   &nbsp;About Me
 </h2>
 
-<p align="center">
-  Soy <strong>Técnico en Programación de Software</strong> y <strong>Desarrollador Full Stack</strong>,
-  con formación intensiva en <strong>Java</strong> y experiencia práctica en el desarrollo de proyectos web.
-</p>
+Soy **Técnico en Programación de Software** y **Desarrollador Full Stack**, con formación intensiva en **Java** y experiencia práctica en el desarrollo de proyectos web.
 
-<p align="center">
-  Me interesa construir soluciones de software aplicando buenas prácticas de programación
-  y fortaleciendo continuamente mis habilidades técnicas.
-</p>
+Me interesa construir soluciones de software aplicando buenas prácticas de programación y fortaleciendo continuamente mis habilidades técnicas.
 
-<p align="center">
-  Actualmente busco mi <strong>primera oportunidad profesional</strong> para aportar mis conocimientos,
-  colaborar con un equipo de desarrollo y seguir creciendo como programador.
-</p>
+Actualmente busco mi **primera oportunidad profesional** para aportar mis conocimientos, colaborar con un equipo de desarrollo y seguir creciendo como programador.
 
 <br/>
 
@@ -131,47 +122,6 @@
         src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch&perline=5"
         alt="Git, GitHub, Visual Studio Code, Linux y Arch Linux"
       />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 RED SEPARATOR                   -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/-%E2%94%81?style=flat&color=D71921"
-    width="100%"
-    height="3"
-    alt=""
-  />
-</p>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                    PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h2 align="center">Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <strong><a href="https://github.com/TU_USUARIO/MUNDO_LAPTOP">Mundo Laptop</a></strong>
-      <br/>
-      E-commerce desarrollado en equipo.
-    </td>
-    <td align="center" valign="top" width="33%">
-      <strong><a href="https://github.com/TU_USUARIO/NEOEXPLORER">NeoExplorer</a></strong>
-      <br/>
-      Aplicación que consume las APIs de la NASA.
-    </td>
-    <td align="center" valign="top" width="33%">
-      <strong><a href="https://github.com/TU_USUARIO/PLANIFICADOR_DE_TAREAS">Planificador de Tareas</a></strong>
-      <br/>
-      SPA desarrollada en JavaScript.
     </td>
   </tr>
 </table>
