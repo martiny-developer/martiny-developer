@@ -157,11 +157,11 @@ Actualmente busco mi **primera oportunidad profesional** para aportar mis conoci
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_PERFIL">
+  <a href="https://www.linkedin.com/in/sergio-martiny-developer-backend-java-springboot-postgresql-linux-javascript-arch-git-github">
     <img src="assets/linkedin.svg" width="150" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.portafolio.com">
+  <a href="https://portafolio-c1g.pages.dev/">
     <img src="assets/portafolio.svg" width="150" alt="Portafolio" />
   </a>
 </p>
