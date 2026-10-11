@@ -28,10 +28,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&duration=3000&pause=1000&color=D71921&center=true&vCenter=true&width=700&height=60&lines=Junior+Full+Stack+Developer.;Java+%7C+Spring+Boot+%7C+Web+Development."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Junior+Full+Stack+Developer.;Java+%7C+Spring+Boot+%7C+Web+Development."
     alt="Junior Full Stack Developer | Java | Spring Boot | Web Development"
   />
 </p>
+
+<p align="center">
+  <strong>FULL STACK JUNIOR</strong>
+  &nbsp;·&nbsp;
+  <strong>JAVA</strong>
+  &nbsp;·&nbsp;
+  <strong>SPRING BOOT</strong>
+</p>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                 RED SEPARATOR                   -->
@@ -86,7 +96,7 @@ Actualmente busco mi **primera oportunidad profesional** para aportar mis conoci
 <!--                      SKILLS                     -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<h2 align="center">
+<h2 align="left">
   <img
     src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true"
     width="45"
